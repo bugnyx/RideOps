@@ -1,0 +1,8 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Tableau temporary backup files
+.~*
+*.twbr
